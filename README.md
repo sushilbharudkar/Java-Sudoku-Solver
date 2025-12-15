@@ -19,9 +19,9 @@ a backtracking algorithm and displays the solved puzzle.
 ## How to Run
 1. Clone or download the repository
 2. Compile the program:
-   javac SudokuSolver.java
+   javac EasySudoku.java
 3. Run the program:
-   java SudokuSolver
+   java EasySudoku
 
 ## Purpose
 - Develop algorithmic thinking and debugging skills
